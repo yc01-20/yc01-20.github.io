@@ -1,4 +1,4 @@
-/* Import modern Google Font */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 body {
@@ -9,7 +9,7 @@ body {
     color: #ffffff;
 }
 
-/* Navigation bar */
+
 nav {
     background-color: #111;
     padding: 20px 60px;
@@ -27,7 +27,7 @@ nav a:hover {
     color: #00ffff;
 }
 
-/* Home hero section */
+
 .container {
     text-align: center;
     margin-top: 120px;
@@ -43,7 +43,7 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
-/* Content pages */
+
 .content {
     padding: 60px;
     max-width: 900px;
